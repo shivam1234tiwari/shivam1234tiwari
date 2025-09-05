@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam1234tiwari
+- 👋 Hi, I’m Rahul Tiwari 
 - This is a my first GitHub
 - <br>
 Author - Rahul Tiwari 
