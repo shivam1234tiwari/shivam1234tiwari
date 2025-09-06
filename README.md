@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Rahul Tiwari 
-- This is a my first GitHub
+- 👋 Hi, I’m Rahul Tiwari
+- and i am passionate to learner.
+- This is a my  GitHub
 - <br>
 Author - Rahul Tiwari 
 
