@@ -4,7 +4,7 @@
 
 ---
 
-### 💻  MCA Student | Passionate about Software & Web Development  
+### 💻  MCA Student | Passionate about Web Development and MERN STACK
 
 
 ---
