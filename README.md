@@ -6,7 +6,6 @@
 
 ### 💻  MCA Student | Passionate about Software & Web Development  
 
-![Visitors](https://komarev.com/ghpvc/?username=sahibaGalaxy02&color=blue)  
 
 ---
 
