@@ -1,120 +1,109 @@
-Hello 👋, I'm Rahul Tiwari
-<div align="center">
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=%25F0%259F%258C%25B1+MCA+Student;%25F0%259F%2592%25BB+Web+Development+Enthusiast;%25E2%259C%25A8+MERN+Stack+Learner;%25F0%259F%2593%259A+Future+Software+Developer;%25F0%259F%25A4%2596+Passionate+Coder
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Rahul Tiwari</h1>
+<h3 align="center">MERN Stack & Backend Developer 🚀</h3>
 
-<img src="https://komarev.com/ghpvc/?username=rahul-tiwari&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" /></div>
-🚀 About Me
-javascript
-const rahul = {
-  pronouns: "he" | "him",
-  education: "MCA Student",
-  interests: ["Web Development", "MERN Stack", "Open Source"],
-  currentFocus: "Mastering Full Stack Development",
-  funFact: "I turn coffee into code ☕ → </>",
-  quote: "Learning never exhausts the mind"
-};
-📊 GitHub Analytics
-<div align="center"><!-- GitHub Stats -->
-https://github-readme-stats.vercel.app/api?username=rahul-tiwari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=MCA+Student+%40+DYPDPGU;MERN+Stack+Developer;Backend+Developer+%7C+REST+APIs;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+</p>
 
-<!-- Streak Stats -->
-https://streak-stats.demolab.com?user=rahul-tiwari&theme=radical&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700
+---
 
-<!-- Top Languages -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-tiwari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700
+## 👨‍💻 About Me
 
-<!-- Trophy Case -->
-https://github-profile-trophy.vercel.app/?username=rahul-tiwari&theme=onedark&no-frame=true&margin-w=15&margin-h=15
+🎓 I’m a **passionate MCA student** at **D.Y. Patil Dnyanshree Pratishthan University, Talegaon**, focused on becoming an **industry-ready software developer**.
 
-</div>
-🛠️ Tech Stack
-Frontend
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+💡 My journey started with curiosity about how code turns ideas into real-world applications. Today, I specialize in **MERN Stack & Backend Development**, building scalable and secure web applications.
 
-Backend
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+🛠️ I strongly believe in **learning by building** — creating real projects that solve problems and showcase practical skills.
 
-Tools & Others
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+🌱 Currently:
+- Deepening **MERN Stack** expertise  
+- Building **REST APIs** & backend systems  
+- Improving **system design & best practices**
 
-📈 Learning Progress
-MERN Stack Mastery
+---
 
-text
-JavaScript    ██████████░░ 90%
-React         ████████░░░░ 70%
-Node.js       ██████░░░░░░ 60%
-MongoDB       █████░░░░░░░ 50%
-Express       ████░░░░░░░░ 40%
-🌟 Featured Projects
-<!-- Project Cards --><div align="center">
-🔥 Recent Projects
-https://github-readme-stats.vercel.app/api/pin/?username=rahul-tiwari&repo=project-1&theme=radical
-https://github-readme-stats.vercel.app/api/pin/?username=rahul-tiwari&repo=project-2&theme=radical
+## 🔗 Connect With Me
 
-</div>
-📫 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourprofile"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/yourprofile"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
-🎯 GitHub Activity
-<!-- Activity Graph -->
-https://github-readme-activity-graph.vercel.app/graph?username=rahul-tiwari&theme=github-dark&hide_border=true&area=true&custom_title=Rahul's%2520Contribution%2520Graph
+<p align="left">
+<a href="https://www.linkedin.com/in/rahul-tiwari-421254255/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/RahulTiwar44160" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:t.rahul3105@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-<!-- Recent Activity -->
-📝 Recent Activity
-<!--START_SECTION:activity--><!-- This will be auto-populated if you set up GitHub Actions --><!--END_SECTION:activity-->
-🎨 Random Dev Quote
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+---
 
-📊 Weekly Development Breakdown
-<!-- WakaTime Stats (if you use it) --><!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&layout=compact) -->
-<div align="center">
-✨ Thanks for visiting! ✨
-https://profile-counter.glitch.me/rahul-tiwari/count.svg
+## 🛠️ Tech Stack & Skills
 
-Let's build something amazing together! 🚀
+### 💻 Languages & Frontend
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
 
-</div>
-⚡ Quick Stats
-Total Stars	https://img.shields.io/github/stars/rahul-tiwari?style=social
-Total Forks	https://img.shields.io/github/forks/rahul-tiwari/project-1?style=social
-Total Contributions	https://badges.pufler.dev/commits/monthly/rahul-tiwari?color=green
-Days Coding	https://badges.pufler.dev/years/rahul-tiwari?color=blue
-Last Updated: Auto-generated on every visit ⚡
+### ⚙️ Backend & Database
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-🔧 Setup Instructions for Dynamic Updates:
-Replace all placeholders (rahul-tiwari, profile links, etc.)
+---
 
-Create a .github/workflows/update-readme.yml file for auto-updates
+## 📌 What I Do
 
-Add your actual repository names in the project section
+✔ Build RESTful APIs using **Node.js & Express**  
+✔ Design scalable backend architectures  
+✔ Integrate databases (**MongoDB / MySQL**)  
+✔ Authentication & Authorization systems  
+✔ Follow clean code & best practices  
 
-Enable GitHub Pages for your profile repository
+---
 
-⚙️ For Automatic Updates:
-Add this to .github/workflows/update-readme.yml:
+## 📊 GitHub Stats & Contributions
 
-yaml
-name: Update README
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam1234tiwari&show_icons=true&count_private=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1234tiwari&layout=compact&theme=transparent" height="165"/>
+</p>
 
-on:
-  schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1234tiwari&theme=transparent"/>
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://github.com/shivam1234tiwari/shivam1234tiwari/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🚀 Current Goals
+
+🎯 Build production-level MERN projects  
+🎯 Strengthen backend & system design  
+🎯 Contribute to open-source  
+🎯 Crack backend / full-stack developer roles  
+
+---
+
+## ✨ Fun Fact
+
+> *“Code once confused me — now it empowers me.”* 💻🔥
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
