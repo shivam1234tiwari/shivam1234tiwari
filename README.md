@@ -90,7 +90,7 @@
 ## 🚀 Current Goals
 
 🎯 Build production-level MERN projects  
-🎯 Strengthen backend & system design  
+🎯 Strengthen backend   
 🎯 Contribute to open-source  
 🎯 Crack backend / full-stack developer roles  
 
