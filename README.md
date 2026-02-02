@@ -73,20 +73,16 @@
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam1234tiwari&show_icons=true&count_private=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1234tiwari&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam1234tiwari&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1234tiwari&layout=compact&theme=transparent" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1234tiwari&theme=transparent"/>
 </p>
 
----
-
-## 🐍 Contribution Graph Animation
-
 <p align="center">
-  <img src="https://github.com/shivam1234tiwari/shivam1234tiwari/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam1234tiwari&theme=transparent"/>
 </p>
 
 ---
