@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m a **passionate MCA student** at **D.Y. Patil Dnyanshree Pratishthan University, Talegaon**, focused on becoming an **industry-ready software developer**.
+🎓 I’m a **passionate MCA student** at **D.Y. Patil Dhyaan Prasad Global University, focused on becoming an **industry-ready software developer**.
 
 💡 My journey started with curiosity about how code turns ideas into real-world applications. Today, I specialize in **MERN Stack & Backend Development**, building scalable and secure web applications.
 
@@ -19,7 +19,7 @@
 🌱 Currently:
 - Deepening **MERN Stack** expertise  
 - Building **REST APIs** & backend systems  
-- Improving **system design & best practices**
+- Improving ** best practices**
 
 ---
 
