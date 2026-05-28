@@ -64,7 +64,7 @@
 
 ✔ Build RESTful APIs using **Node.js & Express**  
 ✔ Design scalable backend architectures  
-✔ Integrate databases (**MongoDB / MySQL**)  
+✔ Integrate databases (**MongoDB / MySQL**/PostgreSQL**)  
 ✔ Authentication & Authorization systems  
 ✔ Follow clean code & best practices  
 
